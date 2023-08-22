@@ -1,9 +1,12 @@
 
+# these are custom fonts i used in the theme. They can be changed to suit your vibe.
 
 define inerfacefont = "EncodeSansExpanded-SemiBold.ttf"
 define menuFont = "EncodeSansExpanded-SemiBold.ttf"
 define titleFont = "EncodeSansExpanded-Black.ttf"
 define bbFont = "Boba Date.otf"
+
+
 transform oHover:
     on hide:
         alpha 1
